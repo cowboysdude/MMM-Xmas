@@ -1,11 +1,12 @@
 # MMM-Xmas
 Christmas Lights for MM
 
-
-  ##Very simple
+# Very simple
   
-    git clone to your modules directory
-   
+git clone to your modules directory like this
+
+     git clone 
+
 ## CONFIG ENTRY
 
      {
